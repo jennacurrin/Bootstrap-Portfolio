@@ -133,6 +133,14 @@ body {
     background: #ffffff;
     border: 1px solid #dddddd;
   }
+
+  .my-row {
+
+    }
+
+  .my-col {
+      
+  }
   
   /* portfolio page */
   
@@ -215,4 +223,6 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+
   
